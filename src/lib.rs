@@ -74,7 +74,6 @@ SOFTWARE.
     clippy::fallible_impl_from
 )]
 #![deny(missing_debug_implementations)]
-#![deny(rustdoc::all)]
 
 #[cfg_attr(test, macro_use)]
 #[cfg(test)]
